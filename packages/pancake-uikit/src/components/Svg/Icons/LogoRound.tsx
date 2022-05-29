@@ -8,7 +8,7 @@ const Icon: React.FC<SvgProps> = (props) => {
     return (
       <Svg viewBox="0 0 512 512" {...props}>
         <circle cx="256" cy="256" r="256" fill="url(#paint0_linear_logoround)" />
-          <image width="256" height="256" href={isDark ? 'images/Lazermoon-Arrows.webp' : 'images/Lazermoon-Arrows.webp'}/>
+          <image width="256" height="256" href={isDark ? 'images/Lazermoon-Arrows.png' : 'images/Lazermoon-Arrows.png'}/>
       </Svg>
     );
   };
