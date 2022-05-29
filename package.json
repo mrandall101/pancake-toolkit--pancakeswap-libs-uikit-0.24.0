@@ -1,6 +1,6 @@
 {
-  "name": "pancake-toolkit_lazermoon",
-  "version": "1.0.1",
+  "name": "lazermoon-toolkit",
+  "version": "1.0.0",
   "description": "Lazermoon UI frontend packages",
   "private": false,
   "workspaces": [
@@ -8,12 +8,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrandall101/pancake-toolkit_lazermoon.git"
+    "url": "git+https://github.com/mrandall101/lazermoon-toolkit.git"
   },
   "bugs": {
-    "url": "https://github.com/mrandall101/pancake-toolkit_lazermoon.git/issues"
+    "url": "https://github.com/mrandall101/lazermoon-toolkit.git/issues"
   },
-  "homepage": "https://github.com/mrandall101/pancake-toolkit_lazermoon.git#readme",
+  "homepage": "https://github.com/mrandall101/lazermoon-toolkit.git#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
