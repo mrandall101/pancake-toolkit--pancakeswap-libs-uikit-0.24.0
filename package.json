@@ -2,7 +2,7 @@
   "name": "pancake-toolkit_lazermoon",
   "version": "1.0.0",
   "description": "Pancake frontend packages",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
